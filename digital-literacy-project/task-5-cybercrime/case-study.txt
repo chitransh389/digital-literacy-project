@@ -1,0 +1,9 @@
+Phishing is a common cybercrime where attackers trick users into revealing sensitive information like passwords or bank details.
+
+In a typical phishing attack, the attacker sends a fake email or message pretending to be from a trusted organization such as a bank. The message contains a link that looks legitimate. When the user clicks the link, they are redirected to a fake website where they are asked to enter personal details.
+
+Students and online users are common targets because they may not always verify links. Once the attacker gets the information, they can misuse it for financial fraud or identity theft.
+
+The consequences of phishing include loss of money, data theft, and privacy issues. It can also cause mental stress to the victim.
+
+Therefore, it is important to stay alert and verify sources before sharing any information online.
