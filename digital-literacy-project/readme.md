@@ -34,7 +34,7 @@ Created profiles on GitHub, LinkedIn, and Kaggle.
 ### Task 3: Platforms
 Solved beginner coding problem and created a Google Form quiz.
 
-Google Form Link: (https://docs.google.com/forms/d/1pmLE6uXA_G9Y171PT5GypjgAr6AWmnr01UwZDIuB30A/edit)
+Google Form Link: https://docs.google.com/forms/d/1pmLE6uXA_G9Y171PT5GypjgAr6AWmnr01UwZDIuB30A/edit
 
 ### Task 4: Email Etiquette
 Drafted professional emails and created social media checklist.
@@ -45,7 +45,7 @@ Created a case study on phishing and prevention checklist.
 ---
 
 ## 🔗 GitHub Repository Link
-(https://github.com/chitransh389/digital-literacy-project)
+https://github.com/chitransh389/digital-literacy-project
 
 ---
 
